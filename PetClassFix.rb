@@ -1,5 +1,6 @@
 # You could make a pet class and just add a set_species or something to determing the type of pet.
 
+# This is an extra comment to test a commit.  I will admit I don't quite know what she is talking about here
 class Ferret
  
 	def set_name=(ferret_name)
